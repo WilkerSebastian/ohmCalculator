@@ -1,0 +1,63 @@
+body{
+
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #3b3b3b
+
+}
+
+.barra-lateral{
+
+    position: fixed;
+    width: 100%;
+
+}
+
+.container{
+
+    padding: 2%;
+    background-color: rgb(22, 22, 22);
+    margin-top: 5%;
+    margin-left: 5%;
+    min-width: 70%;
+    height: 100%;
+
+}
+
+#texto{
+
+    color: #afafaf;
+
+}
+
+.container-texto{
+
+    width: 70%;
+    margin-left: 15%;
+
+}
+
+.imagem{
+
+    margin-left: 35%;
+
+}
+
+.titulos{
+
+    margin-top: 2%;
+    margin-left: 30%;
+    margin-bottom: 2%;
+
+}
+
+.calculadora{
+
+    width: 60%;
+    margin-left: 20%;
+    background-color: #e7e7e7;
+    padding: 2%;
+    border: #33003a 2px solid;
+    border-radius: 2%;
+
+}
